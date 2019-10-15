@@ -1,2 +1,2 @@
 # First
-just trying out Github
+This is my first attempt at GitHub
